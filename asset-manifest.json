@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0ddd6a2.chunk.css",
+    "main.css": "/static/css/main.3638e27b.chunk.css",
     "main.js": "/static/js/main.f1b3f4e8.chunk.js",
     "main.js.map": "/static/js/main.f1b3f4e8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.db517869.js",
@@ -14,11 +14,11 @@
     "static/js/4.3a445628.chunk.js": "/static/js/4.3a445628.chunk.js",
     "static/js/4.3a445628.chunk.js.map": "/static/js/4.3a445628.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.589c92fda40b9dcc60ce26984c35ff2c.js": "/precache-manifest.589c92fda40b9dcc60ce26984c35ff2c.js",
+    "precache-manifest.a30fc584ae74289ae82a63ed55cc5834.js": "/precache-manifest.a30fc584ae74289ae82a63ed55cc5834.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.c7b31c95.chunk.css.map": "/static/css/3.c7b31c95.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
-    "static/css/main.b0ddd6a2.chunk.css.map": "/static/css/main.b0ddd6a2.chunk.css.map",
+    "static/css/main.3638e27b.chunk.css.map": "/static/css/main.3638e27b.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Coursera.png": "/static/media/Coursera.3952f41b.png",
     "static/media/Data_Science_Coach.png": "/static/media/Data_Science_Coach.2e11bff4.png",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.db517869.js",
     "static/js/2.cb77f319.chunk.js",
-    "static/css/main.b0ddd6a2.chunk.css",
+    "static/css/main.3638e27b.chunk.css",
     "static/js/main.f1b3f4e8.chunk.js"
   ]
 }
